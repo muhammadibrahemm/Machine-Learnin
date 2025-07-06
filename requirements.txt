@@ -4,3 +4,4 @@ pandas
 jupyter
 matplotlib
 ipykernel
+lxml
